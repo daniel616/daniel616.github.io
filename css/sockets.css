@@ -1,0 +1,35 @@
+
+
+#wrapper{
+    width:75%;
+    height:100%;
+    display:table;
+    margin:auto;
+}
+
+#wrapper .column{
+    display:table-cell;
+}
+
+#main{
+    width:75%;
+    text-align:center;
+    padding-left:0;
+}
+
+#chat {
+    width: 25%;
+    border: solid thin;
+    overflow: scroll;
+    padding: 10px;
+}
+
+
+#credit{
+    text-align:center;
+}
+
+
+#previousMessages{
+    list-style-type:none;
+}
